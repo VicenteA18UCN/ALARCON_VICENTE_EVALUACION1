@@ -1,14 +1,20 @@
-.header-text
-{
-    color:darkgreen;
+.header-text {
+  color: darkgreen;
 }
 
-.button-detail
-{
-    background-color: greenyellow;
+.product-list {
+  text-align: left;
 }
 
-.image
-{
-    
+.button-detail {
+  background-color: greenyellow;
+}
+
+.background {
+  background-color: lightgreen;
+  border-radius: 8px;
+}
+
+img:hover {
+  opacity: 0.75;
 }
